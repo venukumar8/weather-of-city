@@ -6,7 +6,7 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-image:"C:\Users\Venuk\Downloads\pexels-tahir-shaw-186980.jpg";
+      background-color:white;
       padding: 2rem;
       margin: 0;
     }
